@@ -1,6 +1,9 @@
-# Digital Clock - 1
+# Relógio Digital - Versão 1
 
 
-This is my first digital clock
+Primeira versão do relógio digital.
 
-You can check it [HERE:](https://ducabelo.github.io/digital_clock_1/).
+- HTML, CSS e Javascript.
+- Hora no sistema americano.
+- Tela responsiva.
+- [Clique aqui para visualizar:](https://ducabelo.github.io/digital_clock_1/)
